@@ -1,0 +1,7 @@
+COHPstartEnergy  -20
+COHPendEnergy     16
+basisSet Bunge
+basisfunctions  V 3p 3d 4s
+basisfunctions  O 2s 2p
+basisfunctions  H s
+cohpbetween atom 11 and atom 4
